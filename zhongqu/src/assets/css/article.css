@@ -1,0 +1,32 @@
+.detailstyle .contaniner .detail .detail-article{ width: 100%; margin-top: 2%;background-color: #fff}
+.detailstyle .contaniner .detail .detail-article nav{ width: 100%;}
+.detailstyle .contaniner .detail .detail-article nav ul{ width: 100%; padding:5% 3%;height: 35px; overflow: hidden; display: table;}
+.detailstyle .contaniner .detail .detail-article nav ul li {float:left;width: 50%;height: 35px;}
+.detailstyle .contaniner .detail .detail-article nav ul li a{height: 35px;display:inline-block ; width:100%; text-align: center; font:1.4em/1.7em ""; color: #333; border:solid 1px #333; padding: 3% 0;  }
+/* .detailstyle .contaniner .detail .detail-article nav ul li a{width:100%;display: inline-block;height: 100%} */
+.detailstyle .contaniner .detail .detail-article nav ul li:first-child a{border-top-left-radius: 0.5em;border-bottom-left-radius: 0.5em;  }
+
+.detailstyle .contaniner .detail .detail-article nav ul li:last-child a{border-top-right-radius: 0.5em;border-bottom-right-radius: 0.5em; }
+.detailstyle .contaniner .detail .detail-article nav ul li a.article-active{ background-color: #333; color: #fff;}
+.detailstyle .contaniner .detail .detail-article .talkbox{ width: 100%;}
+
+.detailstyle .contaniner .detail .detail-article .talkbox1{margin-left:10px;color:#333;padding-bottom:15px}
+
+/* .detailstyle .contaniner .detail .detail-article .talkbox2{margin-left:10px;color:#333;padding-bottom:15px} */
+
+.detailstyle .contaniner .detail .detail-article .talk{ width: 100%;}
+.detailstyle .contaniner .detail .detail-article .talk li{ width: 90%;margin-left:13px; padding: 3% 0; overflow: hidden; border-bottom: solid 1px #c8c8c8;}
+.detailstyle .contaniner .detail .detail-article .talk li figure{float: left;  width: 14%; height: 0; padding-bottom: 14%; border-radius: 50%; overflow: hidden;}
+.detailstyle .contaniner .detail .detail-article .talk li figure img{  width: 100%;}
+.detailstyle .contaniner .detail .detail-article .talk li dl{ float: left; width: 80%; padding-left: 6%; }
+.detailstyle .contaniner .detail .detail-article .talk li dl dt{ width: 100%; overflow:hidden;}
+.detailstyle .contaniner .detail .detail-article .talk li dl dt *{  float: left;}
+.detailstyle .contaniner .detail .detail-article .talk li dl dt p{ color: #666; font-size: 1.169em; }
+.detailstyle .contaniner .detail .detail-article .talk li dl dt time{ color: #999; font-size: 1.169em; margin-left: 3%;margin-top: 1%; }
+.detailstyle .contaniner .detail .detail-article .talk li dl dt .star{ float: right; width: 30%; display: table; }
+.detailstyle .contaniner .detail .detail-article .talk li dl dt .star span{  display: table-cell; width: 20%;  }
+.detailstyle .contaniner .detail .detail-article .talk li dl dt .star span img{  width: 100%;  }
+.detailstyle .contaniner .detail .detail-article .talk li dl dd{ font-size:1.35em ; margin-top: 3%; color: #333;}
+.detailstyle .contaniner .detail .detail-article .talk li dl small{ font-size:1.169em ; margin-top: 3%; color: #999;}
+.detailstyle .contaniner .detail .detail-article .talk li dl .picbox{ width: 100%; margin-top: 3%; height: 5em; overflow: hidden;}
+.detailstyle .contaniner .detail .detail-article .talk li dl .picbox img{ width: 23%; min-height: 5em; margin-right:2%; margin-bottom: 2%;}

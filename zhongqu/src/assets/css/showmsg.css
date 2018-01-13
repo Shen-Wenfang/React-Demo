@@ -1,0 +1,19 @@
+.showmsg{
+    height:38px;
+    width:80%;
+    margin:0 auto;
+    border: 1px solid #f00;
+    border-radius: 5px;
+    /* font:16px/100px ""; */
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    z-index: 500;
+    background: #fff;
+}
+.textstyle{
+    background: none;
+    color: #f00;
+    border:0;
+    font:14px/38px "";
+}
